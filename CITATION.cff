@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use REPO-TO-EXPERIENCE, please cite it as below."
+title: "REPO-TO-EXPERIENCE: A Reusable Master Prompt for Turning Any GitHub Repository into an Interactive Visual Experience"
+authors:
+  - family-names: "Hurd"
+    given-names: "Barry"
+    affiliation: "Barry Hurd Intelligence Lab (BHIL)"
+version: "1.0.0"
+date-released: "2026-09-03"
+url: "https://github.com/PolymathWizard/BHIL-REPO-TO-EXPERIENCE"
+license: "MIT AND CC-BY-4.0"
+keywords:
+  - prompt-engineering
+  - master-prompt
+  - repository-visualization
+  - interactive-experience
+  - phase-gates
+  - BHIL

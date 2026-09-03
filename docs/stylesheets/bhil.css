@@ -1,0 +1,12 @@
+/* BHIL brand tokens */
+:root {
+  --md-primary-fg-color: #1B4FD8;
+  --md-primary-fg-color--dark: #0F2F8A;
+  --md-primary-fg-color--light: #E8EEFF;
+  --md-accent-fg-color: #6B9EFF;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1B4FD8;
+  --md-accent-fg-color: #6B9EFF;
+  --md-default-bg-color: #1C1C2E;
+}

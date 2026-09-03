@@ -1,0 +1,20 @@
+REPO-TO-EXPERIENCE
+Copyright (c) 2026 Barry Hurd / Barry Hurd Intelligence Lab (BHIL)
+
+Human-Directed. AI-Enabled. Commercially Tested.
+
+This repository is dual-licensed:
+  - Code, schemas, validators, CI configuration: MIT License (LICENSE)
+  - Prose content, master prompt, documentation, worked examples:
+    CC BY 4.0 (LICENSE-CONTENT)
+
+Attribution is required for reuse of content. See LICENSE-CONTENT for the
+required attribution format and CITATION.cff for citation metadata.
+
+Research foundations referenced in this work:
+  - Cemri et al., "Why Do Multi-Agent LLM Systems Fail?" (MAST taxonomy),
+    NeurIPS 2025 Spotlight
+  - Liang et al., "Holistic Evaluation of Language Models" (HELM),
+    arXiv:2211.09110
+  - Anton Lovchikov (Evil Martians), dev-tool landing page analysis, 2025
+These works are cited as evidence sources; no third-party code is included.

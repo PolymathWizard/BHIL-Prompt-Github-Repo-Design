@@ -1,0 +1,56 @@
+site_name: REPO-TO-EXPERIENCE
+site_description: A reusable BHIL master prompt for turning any GitHub repository into an interactive visual experience
+site_url: https://polymathwizard.github.io/BHIL-REPO-TO-EXPERIENCE/
+repo_url: https://github.com/PolymathWizard/BHIL-REPO-TO-EXPERIENCE
+repo_name: PolymathWizard/BHIL-REPO-TO-EXPERIENCE
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+
+extra_css:
+  - stylesheets/bhil.css
+
+nav:
+  - Home: index.md
+  - Usage:
+      - Quickstart: usage/quickstart.md
+      - The Control Surface: usage/placeholders.md
+  - Methodology:
+      - The Five Phases: methodology/five-phases.md
+      - Research Foundations: methodology/research-foundations.md
+      - Execution Contexts: methodology/execution-contexts.md
+  - Worked Example:
+      - BHIL-HELM Visualizer: example/helm-worked-example.md
+  - Governance:
+      - Evidence Tiers: governance/evidence-tiers.md
+      - The Acceptance Scorecard: governance/scorecard.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences

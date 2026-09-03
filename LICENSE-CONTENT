@@ -1,0 +1,24 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The prose content of this repository (the master prompt text, documentation,
+methodology guides, worked examples, and architecture decision records) is
+licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+  Share: copy and redistribute the material in any medium or format
+  Adapt: remix, transform, and build upon the material for any purpose,
+  even commercially.
+
+Under the following terms:
+  Attribution: You must give appropriate credit to Barry Hurd Intelligence
+  Lab (BHIL), provide a link to the license, and indicate if changes were
+  made. Attribution format:
+
+    "REPO-TO-EXPERIENCE by Barry Hurd Intelligence Lab (BHIL),
+     https://github.com/PolymathWizard/BHIL-REPO-TO-EXPERIENCE,
+     licensed under CC BY 4.0"
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Code, schemas, validators, and CI configuration in this repository are
+licensed separately under the MIT License (see LICENSE).
